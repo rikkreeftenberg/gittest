@@ -3,3 +3,5 @@ nieuwe
 Nieuwe feature wijziging
 
 Tweede Nieuwe feature wijziging
+
+Derde nieuwe feature commit
