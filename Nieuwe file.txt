@@ -5,3 +5,5 @@ Nieuwe feature wijziging
 Tweede Nieuwe feature wijziging
 
 Develop bugfix wijziging.
+
+Twede bugfix commit.
