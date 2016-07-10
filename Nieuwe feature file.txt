@@ -1,3 +1,7 @@
 test
 
 Commit in de NieuwFeature branch.
+
+Derde nieuwe feature commit
+
+vierde nieuwe feature commit.

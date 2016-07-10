@@ -7,3 +7,7 @@ Tweede Nieuwe feature wijziging
 Develop bugfix wijziging.
 
 Twede bugfix commit.
+
+Derde nieuwe feature commit
+
+Vierde nieuwe feature commit.
